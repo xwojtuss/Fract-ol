@@ -12,7 +12,12 @@ These instructions will help you get a copy of the project up and running.
 
 ### Dependencies
 
-You will definitely need X11 (xorg-dev and libx11-dev).
+- gcc
+- cc
+- make
+- X11 include files (package xorg)
+- XShm extension must be present (package libxext-dev)
+- Utility functions from BSD systems - development files (package libbsd-dev)
 
 ### Installing
 
