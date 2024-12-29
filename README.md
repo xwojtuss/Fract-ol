@@ -4,6 +4,10 @@ Fract-ol is a 42 project focusing around fractals, self-similar shapes that are 
 
 Right now you can choose between: Mandelbrot, Julia and Burningship.
 
+![Mandelbrot](https://github.com/xwojtuss/Fract-ol/preview/Mandelbrot.png)
+![Julia](https://github.com/xwojtuss/Fract-ol/preview/Julia.png)
+![Burningship](https://github.com/xwojtuss/Fract-ol/preview/Burningship.png)
+
 This project uses minilibx, which is an X11 library designed for 42 students. The library is automatically cloned from github, configured and compiled.
 
 ## Getting Started
